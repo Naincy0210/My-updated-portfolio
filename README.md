@@ -1,0 +1,2 @@
+# My-updated-portfolio
+A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript. The website showcases my technical skills, projects, and contact information with a clean UI, smooth navigation, and interactive design elements. Designed to reflect my profile as a Full-Stack Developer.
